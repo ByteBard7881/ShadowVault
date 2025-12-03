@@ -1,8 +1,3 @@
-Here is your updated **README**, with **Chitraksh Mahur (sternywastaken)** added as a collaborator in the *Acknowledgments* section — and also a new *Contributors* section for better visibility.
-(Everything else is left unchanged.)
-
----
-
 # 🔒 ShadowVault - AI-Powered Cyber Threat Defense on Blockchain
 
 > **Fortifying Cybersecurity with AI Precision and Blockchain Integrity**
